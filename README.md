@@ -29,8 +29,6 @@ Runs **100% on-device** via Ollama, fully offline. A ReAct execution loop and in
 | **[Disha](https://github.com/Saurabh0003M/SIH)** | Smart India Hackathon 2026 (PS 26202) — Chrome extension that points first-time users at the next control, with a confidence the page itself must confirm<br>`JavaScript` `Chrome MV3` `LLM` | — |
 | **Swami Abhyasika** (client project) | Student & fee management platform **delivered to a freelance client** — JWT auth, RBAC, parameterized SQL, Helmet CSP, rate limiting<br>`Node.js` `Express` `SQLite` `Vercel` | — |
 | **[CropDrop Bot](https://github.com/Saurabh0003M/eYRC-CB-2570-Task1B)** | Q-learning controller for autonomous navigation — 32-state × 5-action space, adaptive epsilon-greedy. **e-Yantra 2025–26, IIT Bombay**<br>`Python` `CoppeliaSim` `RL` | — |
-| **[Ascend](https://github.com/Saurabh0003M/ascend)** | Growth-coaching app — client-side recommendation engine and a Ryff-inspired wellbeing model<br>`TypeScript` `Supabase` `Vercel` | [demo →](https://mvp-blond-five.vercel.app/) |
-| **[KrishiLearn](https://github.com/Saurabh0003M/krishi-learn)** | Farmer support platform — government scheme directory and agricultural resource centre (front-end prototype)<br>`JavaScript` `Tailwind` | [demo →](https://saurabh0003m.github.io/krishi-learn/) |
 | **ACM GHRCEM** | Official site for the ACM Student Chapter — events, team, chapter activities<br>`Next.js` `TypeScript` `Tailwind` | [site →](https://acmghrcem2026.vercel.app) |
 
 <p align="center">
