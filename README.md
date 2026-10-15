@@ -30,7 +30,7 @@ Runs **100% on-device** via Ollama, fully offline. A ReAct execution loop and in
 | **[NyaySetu](https://github.com/Saurabh0003M/Unscramble-Srijan)** | Srijan hackathon, team Unscramble — legal case portal with Gemini contract analysis: green / yellow / red risk badges and a plain-English translation<br>`React` `TypeScript` `FastAPI` `Gemini` `Vercel` | [demo →](https://unscramble-srijan-portal.vercel.app) |
 | **Swami Abhyasika** (client project) | Student & fee platform **built for a study-library owner** — fee rules by gender and shift, monthly subscriptions, WhatsApp due reminders; 2 rounds of owner-requested changes; JWT auth, RBAC, bcrypt<br>`Node.js` `Express` `SQLite` `Vercel` | — |
 | **[CropDrop Bot](https://github.com/Saurabh0003M/eYRC-CB-2570-Task1B)** | Q-learning controller for autonomous navigation — 32-state × 5-action space, adaptive epsilon-greedy. **e-Yantra 2025–26, IIT Bombay**<br>`Python` `CoppeliaSim` `RL` | — |
-| **ACM GHRCEM** | Official site for the ACM Student Chapter — events, team, a two-tier `/developer` content editor with login lockout; Lighthouse 100 on desktop<br>`Next.js` `TypeScript` `Tailwind` `Firebase` | [site →](https://acmghrcem2026.vercel.app) |
+| **ACM GHRCEM** | Official site for the ACM Student Chapter — events, team, a 3D campus homepage and a two-tier `/developer` content editor with login lockout<br>`Next.js` `TypeScript` `Tailwind` `Firebase` | [site →](https://acmghrcem2026.vercel.app) |
 | **THE ACM HEIST** | Registration site for the chapter's inter-college treasure hunt (23 Sep 2026) — 3D campus model from OpenStreetMap, multi-step crew registration<br>`JavaScript` `Three.js` `OpenStreetMap` | [site →](https://acm-th.vercel.app) |
 
 <p align="center">
